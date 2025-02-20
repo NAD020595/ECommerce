@@ -69,7 +69,6 @@ E:\Learn\ECommerce\ECommerce.AppHost\obj\Debug\net8.0\ECommerce.AppHost.Generate
 E:\Learn\ECommerce\ECommerce.AppHost\obj\Debug\net8.0\ECommerce.AppHost.AssemblyInfoInputs.cache
 E:\Learn\ECommerce\ECommerce.AppHost\obj\Debug\net8.0\ECommerce.AppHost.AssemblyInfo.cs
 E:\Learn\ECommerce\ECommerce.AppHost\obj\Debug\net8.0\ECommerce.AppHost.csproj.CoreCompileInputs.cache
-E:\Learn\ECommerce\ECommerce.AppHost\obj\Debug\net8.0\Aspire\references\.ProjectMetadata.g.cs
 E:\Learn\ECommerce\ECommerce.AppHost\obj\Debug\net8.0\Aspire\references\_AppHost.ProjectMetadata.g.cs
 E:\Learn\ECommerce\ECommerce.AppHost\obj\Debug\net8.0\ECommerce.AppHost.sourcelink.json
 E:\Learn\ECommerce\ECommerce.AppHost\obj\Debug\net8.0\ECommerc.8BDB7473.Up2Date
@@ -78,3 +77,6 @@ E:\Learn\ECommerce\ECommerce.AppHost\obj\Debug\net8.0\refint\ECommerce.AppHost.d
 E:\Learn\ECommerce\ECommerce.AppHost\obj\Debug\net8.0\ECommerce.AppHost.pdb
 E:\Learn\ECommerce\ECommerce.AppHost\obj\Debug\net8.0\ECommerce.AppHost.genruntimeconfig.cache
 E:\Learn\ECommerce\ECommerce.AppHost\obj\Debug\net8.0\ref\ECommerce.AppHost.dll
+E:\Learn\ECommerce\ECommerce.AppHost\obj\Debug\net8.0\Aspire\references\ECommerce_OrderService.ProjectMetadata.g.cs
+E:\Learn\ECommerce\ECommerce.AppHost\obj\Debug\net8.0\Aspire\references\ECommerce_ProductService.ProjectMetadata.g.cs
+E:\Learn\ECommerce\ECommerce.AppHost\obj\Debug\net8.0\Aspire\references\ECommerce_Web.ProjectMetadata.g.cs
