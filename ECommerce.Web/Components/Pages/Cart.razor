@@ -1,0 +1,34 @@
+﻿@page "/cart/{ProductId:int}"
+@using ECommerce.Model
+@inject HttpClient http
+<h3>Cart</h3>
+
+<form>
+    <div class="form-group mb-4">
+        <label>Customer name</label>
+        <input type="text" class="form-control" @bind="Order.CustomerName" />
+    </div>
+    <div class="form-group mb-4">
+        <label>Product name</label>
+        <input type="text" class="form-control" @bind="Product.Name" />
+    </div>
+    <div class="form-group mb-4">
+        <label>Quantity</label>
+        <input type="text" class="form-control" @bind="Order.Quantity" />
+    </div>
+</form>
+
+@code {
+    [Parameter]
+    public int ProductId { get; set; }
+    public OrderModel Order = new OrderModel();
+    public ProductModel Product = new ProductModel();
+
+    protected override async Task OnInitializedAsync()
+    {
+        Order.ProductId = ProductId;
+        Product = await http.GetFromJsonAsync<ProductModel>($"https://localhost:7009/api/product/{ProductId}");
+
+        await base.OnInitializedAsync();
+    }
+}
