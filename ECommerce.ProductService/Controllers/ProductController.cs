@@ -15,5 +15,11 @@ namespace ECommerce.ProductService.Controllers
         {
             return await dbContext.Products.ToListAsync();
         }
+
+        [HttpGet("{id}")]
+        public async Task<ProductModel> GetProduct(int id)
+        {
+            return await dbContext.Products.FindAsync(id);
+        }
     }
 }

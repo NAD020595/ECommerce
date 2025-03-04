@@ -1,6 +1,8 @@
 ﻿@page "/cart/{ProductId:int}"
+@rendermode InteractiveServer
 @using ECommerce.Model
 @inject HttpClient http
+@inject IJSRuntime JSRuntime
 <h3>Cart</h3>
 
 <form>
@@ -16,6 +18,7 @@
         <label>Quantity</label>
         <input type="text" class="form-control" @bind="Order.Quantity" />
     </div>
+    <button type="button" class="btn btn-primary" @onclick="Createorder">Create order</button>
 </form>
 
 @code {
@@ -30,5 +33,19 @@
         Product = await http.GetFromJsonAsync<ProductModel>($"https://localhost:7009/api/product/{ProductId}");
 
         await base.OnInitializedAsync();
+    }
+
+    public async Task Createorder()
+    {
+        var res = await http.PostAsJsonAsync<OrderModel>("https://localhost:7268/api/order", Order);
+
+        if (res.IsSuccessStatusCode)
+        {
+            await JSRuntime.InvokeVoidAsync("alert", "Order created successfully");
+        }
+        else
+        {
+            await JSRuntime.InvokeVoidAsync("alert", "Error creating order");
+        }
     }
 }

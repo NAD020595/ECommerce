@@ -7,5 +7,5 @@ namespace Projects;
 [global::System.Diagnostics.DebuggerDisplay("Type = {GetType().Name,nq}, ProjectPath = {ProjectPath}")]
 public class ECommerce_Web : global::Aspire.Hosting.IProjectMetadata
 {
-    public string ProjectPath => """E:\Learn\ECommerce\ECommerce.Web\ECommerce.Web.csproj""";
+    public string ProjectPath => """D:\Learn\ECommerce\ECommerce.Web\ECommerce.Web.csproj""";
 }

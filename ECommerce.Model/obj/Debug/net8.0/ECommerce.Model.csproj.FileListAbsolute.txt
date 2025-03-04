@@ -10,3 +10,15 @@ E:\Learn\ECommerce\ECommerce.Model\obj\Debug\net8.0\ECommerce.Model.dll
 E:\Learn\ECommerce\ECommerce.Model\obj\Debug\net8.0\refint\ECommerce.Model.dll
 E:\Learn\ECommerce\ECommerce.Model\obj\Debug\net8.0\ECommerce.Model.pdb
 E:\Learn\ECommerce\ECommerce.Model\obj\Debug\net8.0\ref\ECommerce.Model.dll
+D:\Learn\ECommerce\ECommerce.Model\bin\Debug\net8.0\ECommerce.Model.deps.json
+D:\Learn\ECommerce\ECommerce.Model\bin\Debug\net8.0\ECommerce.Model.dll
+D:\Learn\ECommerce\ECommerce.Model\bin\Debug\net8.0\ECommerce.Model.pdb
+D:\Learn\ECommerce\ECommerce.Model\obj\Debug\net8.0\ECommerce.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\ECommerce\ECommerce.Model\obj\Debug\net8.0\ECommerce.Model.AssemblyInfoInputs.cache
+D:\Learn\ECommerce\ECommerce.Model\obj\Debug\net8.0\ECommerce.Model.AssemblyInfo.cs
+D:\Learn\ECommerce\ECommerce.Model\obj\Debug\net8.0\ECommerce.Model.csproj.CoreCompileInputs.cache
+D:\Learn\ECommerce\ECommerce.Model\obj\Debug\net8.0\ECommerce.Model.sourcelink.json
+D:\Learn\ECommerce\ECommerce.Model\obj\Debug\net8.0\ECommerce.Model.dll
+D:\Learn\ECommerce\ECommerce.Model\obj\Debug\net8.0\refint\ECommerce.Model.dll
+D:\Learn\ECommerce\ECommerce.Model\obj\Debug\net8.0\ECommerce.Model.pdb
+D:\Learn\ECommerce\ECommerce.Model\obj\Debug\net8.0\ref\ECommerce.Model.dll

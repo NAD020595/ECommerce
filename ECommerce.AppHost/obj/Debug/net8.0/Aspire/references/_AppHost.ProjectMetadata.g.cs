@@ -8,5 +8,5 @@ namespace Projects;
 public class ECommerce_AppHost
 {
     private ECommerce_AppHost() { }
-    public static string ProjectPath => """E:\Learn\ECommerce\ECommerce.AppHost""";
+    public static string ProjectPath => """D:\Learn\ECommerce\ECommerce.AppHost""";
 }

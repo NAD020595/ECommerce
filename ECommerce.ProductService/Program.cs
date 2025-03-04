@@ -11,7 +11,8 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddDbContext<ProductDbContext>(option =>
-                                                option.UseSqlServer("Server=SGLT22019;Database=ECommerceProduct;User Id=sa;Password=P@$$w0rd;TrustServerCertificate=True;"));
+                                                //option.UseSqlServer("Server=SGLT22019;Database=ECommerceProduct;User Id=sa;Password=P@$$w0rd;TrustServerCertificate=True;"));
+                                                option.UseSqlServer("Server=DESKTOP-C2EGOC5;Database=ECommerceProduct;User Id=sa;Password=P@$$w0rd;TrustServerCertificate=True;"));
 
 var app = builder.Build();
 

@@ -2960,23 +2960,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\duy.nguyen1\\.nuget\\packages\\": {},
+    "C:\\Users\\Nguyen Anh Duy\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Learn\\ECommerce\\ECommerce.AppHost\\ECommerce.AppHost.csproj",
+      "projectUniqueName": "D:\\Learn\\ECommerce\\ECommerce.AppHost\\ECommerce.AppHost.csproj",
       "projectName": "ECommerce.AppHost",
-      "projectPath": "E:\\Learn\\ECommerce\\ECommerce.AppHost\\ECommerce.AppHost.csproj",
-      "packagesPath": "C:\\Users\\duy.nguyen1\\.nuget\\packages\\",
-      "outputPath": "E:\\Learn\\ECommerce\\ECommerce.AppHost\\obj\\",
+      "projectPath": "D:\\Learn\\ECommerce\\ECommerce.AppHost\\ECommerce.AppHost.csproj",
+      "packagesPath": "C:\\Users\\Nguyen Anh Duy\\.nuget\\packages\\",
+      "outputPath": "D:\\Learn\\ECommerce\\ECommerce.AppHost\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\duy.nguyen1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Nguyen Anh Duy\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3004,7 +3004,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -3041,7 +3041,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

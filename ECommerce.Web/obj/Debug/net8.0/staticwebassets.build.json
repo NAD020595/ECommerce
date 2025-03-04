@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "X8MYKxnIBE3Hps9aiWoHzyjXMPOGGYIu8SV+Kt2vsSI=",
+  "Hash": "H8p+pubOMX+PkC9uZXFrxEP2fI6tpTmAsC0GVeyAh0I=",
   "Source": "ECommerce.Web",
   "BasePath": "_content/ECommerce.Web",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ECommerce.Web\\wwwroot",
       "Source": "ECommerce.Web",
-      "ContentRoot": "E:\\Learn\\ECommerce\\ECommerce.Web\\wwwroot\\",
+      "ContentRoot": "D:\\Learn\\ECommerce\\ECommerce.Web\\wwwroot\\",
       "BasePath": "_content/ECommerce.Web",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "E:\\Learn\\ECommerce\\ECommerce.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ECommerce.Web.styles.css",
+      "Identity": "D:\\Learn\\ECommerce\\ECommerce.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ECommerce.Web.styles.css",
       "SourceId": "ECommerce.Web",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\Learn\\ECommerce\\ECommerce.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\Learn\\ECommerce\\ECommerce.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/ECommerce.Web",
       "RelativePath": "ECommerce.Web#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -35,13 +35,13 @@
       "Integrity": "FUFy94Iis7DGGOqifTtwEWWd0bgrjMNm4pxfsTC5fMc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\Learn\\ECommerce\\ECommerce.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ECommerce.Web.styles.css"
+      "OriginalItemSpec": "D:\\Learn\\ECommerce\\ECommerce.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ECommerce.Web.styles.css"
     },
     {
-      "Identity": "E:\\Learn\\ECommerce\\ECommerce.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ECommerce.Web.bundle.scp.css",
+      "Identity": "D:\\Learn\\ECommerce\\ECommerce.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ECommerce.Web.bundle.scp.css",
       "SourceId": "ECommerce.Web",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\Learn\\ECommerce\\ECommerce.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\Learn\\ECommerce\\ECommerce.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/ECommerce.Web",
       "RelativePath": "ECommerce.Web#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -56,13 +56,13 @@
       "Integrity": "FUFy94Iis7DGGOqifTtwEWWd0bgrjMNm4pxfsTC5fMc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\Learn\\ECommerce\\ECommerce.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ECommerce.Web.bundle.scp.css"
+      "OriginalItemSpec": "D:\\Learn\\ECommerce\\ECommerce.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ECommerce.Web.bundle.scp.css"
     },
     {
-      "Identity": "E:\\Learn\\ECommerce\\ECommerce.Web\\wwwroot\\app.css",
+      "Identity": "D:\\Learn\\ECommerce\\ECommerce.Web\\wwwroot\\app.css",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Learn\\ECommerce\\ECommerce.Web\\wwwroot\\",
+      "ContentRoot": "D:\\Learn\\ECommerce\\ECommerce.Web\\wwwroot\\",
       "BasePath": "_content/ECommerce.Web",
       "RelativePath": "app#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "E:\\Learn\\ECommerce\\ECommerce.Web\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "D:\\Learn\\ECommerce\\ECommerce.Web\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Learn\\ECommerce\\ECommerce.Web\\wwwroot\\",
+      "ContentRoot": "D:\\Learn\\ECommerce\\ECommerce.Web\\wwwroot\\",
       "BasePath": "_content/ECommerce.Web",
       "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -94,17 +94,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "bpk8xqwxhs",
-      "Integrity": "z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
+      "Fingerprint": "6gzpyzhau4",
+      "Integrity": "SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "E:\\Learn\\ECommerce\\ECommerce.Web\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "D:\\Learn\\ECommerce\\ECommerce.Web\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Learn\\ECommerce\\ECommerce.Web\\wwwroot\\",
+      "ContentRoot": "D:\\Learn\\ECommerce\\ECommerce.Web\\wwwroot\\",
       "BasePath": "_content/ECommerce.Web",
       "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "E:\\Learn\\ECommerce\\ECommerce.Web\\wwwroot\\favicon.png",
+      "Identity": "D:\\Learn\\ECommerce\\ECommerce.Web\\wwwroot\\favicon.png",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Learn\\ECommerce\\ECommerce.Web\\wwwroot\\",
+      "ContentRoot": "D:\\Learn\\ECommerce\\ECommerce.Web\\wwwroot\\",
       "BasePath": "_content/ECommerce.Web",
       "RelativePath": "favicon#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -146,7 +146,7 @@
   "Endpoints": [
     {
       "Route": "app.css",
-      "AssetFile": "E:\\Learn\\ECommerce\\ECommerce.Web\\wwwroot\\app.css",
+      "AssetFile": "D:\\Learn\\ECommerce\\ECommerce.Web\\wwwroot\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -167,7 +167,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 04:50:17 GMT"
+          "Value": "Tue, 04 Mar 2025 13:11:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -183,7 +183,7 @@
     },
     {
       "Route": "app.da95v2qkru.css",
-      "AssetFile": "E:\\Learn\\ECommerce\\ECommerce.Web\\wwwroot\\app.css",
+      "AssetFile": "D:\\Learn\\ECommerce\\ECommerce.Web\\wwwroot\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -204,7 +204,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 04:50:17 GMT"
+          "Value": "Tue, 04 Mar 2025 13:11:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -227,8 +227,8 @@
       ]
     },
     {
-      "Route": "bootstrap/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "E:\\Learn\\ECommerce\\ECommerce.Web\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Route": "bootstrap/bootstrap.min.6gzpyzhau4.css",
+      "AssetFile": "D:\\Learn\\ECommerce\\ECommerce.Web\\wwwroot\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -237,7 +237,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "162720"
+          "Value": "162726"
         },
         {
           "Name": "Content-Type",
@@ -245,11 +245,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 04:50:17 GMT"
+          "Value": "Tue, 04 Mar 2025 13:11:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -259,7 +259,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "bpk8xqwxhs"
+          "Value": "6gzpyzhau4"
         },
         {
           "Name": "label",
@@ -267,13 +267,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
         }
       ]
     },
     {
       "Route": "bootstrap/bootstrap.min.css",
-      "AssetFile": "E:\\Learn\\ECommerce\\ECommerce.Web\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "AssetFile": "D:\\Learn\\ECommerce\\ECommerce.Web\\wwwroot\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -282,7 +282,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "162720"
+          "Value": "162726"
         },
         {
           "Name": "Content-Type",
@@ -290,11 +290,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 04:50:17 GMT"
+          "Value": "Tue, 04 Mar 2025 13:11:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -304,13 +304,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
         }
       ]
     },
     {
       "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "E:\\Learn\\ECommerce\\ECommerce.Web\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "D:\\Learn\\ECommerce\\ECommerce.Web\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -331,7 +331,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 04:50:17 GMT"
+          "Value": "Tue, 04 Mar 2025 13:11:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -355,7 +355,7 @@
     },
     {
       "Route": "bootstrap/bootstrap.min.css.map",
-      "AssetFile": "E:\\Learn\\ECommerce\\ECommerce.Web\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "D:\\Learn\\ECommerce\\ECommerce.Web\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -376,7 +376,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 04:50:17 GMT"
+          "Value": "Tue, 04 Mar 2025 13:11:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -392,7 +392,7 @@
     },
     {
       "Route": "ECommerce.Web.bundle.scp.css",
-      "AssetFile": "E:\\Learn\\ECommerce\\ECommerce.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ECommerce.Web.bundle.scp.css",
+      "AssetFile": "D:\\Learn\\ECommerce\\ECommerce.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ECommerce.Web.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -413,7 +413,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 04:54:47 GMT"
+          "Value": "Tue, 04 Mar 2025 13:11:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -429,7 +429,7 @@
     },
     {
       "Route": "ECommerce.Web.styles.css",
-      "AssetFile": "E:\\Learn\\ECommerce\\ECommerce.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ECommerce.Web.styles.css",
+      "AssetFile": "D:\\Learn\\ECommerce\\ECommerce.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ECommerce.Web.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -450,7 +450,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 04:54:47 GMT"
+          "Value": "Tue, 04 Mar 2025 13:11:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -466,7 +466,7 @@
     },
     {
       "Route": "ECommerce.Web.v7dchwkes3.bundle.scp.css",
-      "AssetFile": "E:\\Learn\\ECommerce\\ECommerce.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ECommerce.Web.bundle.scp.css",
+      "AssetFile": "D:\\Learn\\ECommerce\\ECommerce.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ECommerce.Web.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -487,7 +487,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 04:54:47 GMT"
+          "Value": "Tue, 04 Mar 2025 13:11:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -511,7 +511,7 @@
     },
     {
       "Route": "ECommerce.Web.v7dchwkes3.styles.css",
-      "AssetFile": "E:\\Learn\\ECommerce\\ECommerce.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ECommerce.Web.styles.css",
+      "AssetFile": "D:\\Learn\\ECommerce\\ECommerce.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ECommerce.Web.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -532,7 +532,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 04:54:47 GMT"
+          "Value": "Tue, 04 Mar 2025 13:11:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -556,7 +556,7 @@
     },
     {
       "Route": "favicon.ifv42okdf2.png",
-      "AssetFile": "E:\\Learn\\ECommerce\\ECommerce.Web\\wwwroot\\favicon.png",
+      "AssetFile": "D:\\Learn\\ECommerce\\ECommerce.Web\\wwwroot\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -577,7 +577,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 04:50:17 GMT"
+          "Value": "Tue, 04 Mar 2025 13:11:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -601,7 +601,7 @@
     },
     {
       "Route": "favicon.png",
-      "AssetFile": "E:\\Learn\\ECommerce\\ECommerce.Web\\wwwroot\\favicon.png",
+      "AssetFile": "D:\\Learn\\ECommerce\\ECommerce.Web\\wwwroot\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -622,7 +622,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 04:50:17 GMT"
+          "Value": "Tue, 04 Mar 2025 13:11:32 GMT"
         },
         {
           "Name": "Cache-Control",
